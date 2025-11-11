@@ -31,4 +31,4 @@ Check out the live version of the project here:
 ## 🖥️ How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/billahemanth/<repository-name>.git
+   git clone https://github.com/billahemanth/<StopWatch>.git
