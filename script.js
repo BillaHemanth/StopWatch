@@ -17,7 +17,7 @@ function stopwatch() {
     let s = seconds < 10 ? "0" + seconds:seconds;
 
     
-    displayTime.innerHTML = h+":"+m+":"+s;
+    displayTime.innerHTML = h + ":" + m + ":" + s;
 }
 
 function watchStart(){
@@ -32,5 +32,5 @@ function watchStop(){
 function watchReset(){
     clearInterval(timer);
     [seconds, minutes, hours] = [0, 0, 0];
-    displayTime.innerHTML == "00:00:00";
+    displayTime.innerHTML = "00:00:00";
 }
