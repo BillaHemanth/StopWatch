@@ -7,7 +7,7 @@ This project allows users to start, stop, and reset a timer with a clean UI and 
 
 ## 🌐 Live Demo
 Check out the live version of the project here:  
-👉 [**Stopwatch Web App**](https://billahemanth.github.io/<repository-name>/)
+👉 [**Stopwatch Web App**](https://billahemanth.github.io/StopWatch/)
 
 *(Replace `<repository-name>` with your actual repo name)*
 
